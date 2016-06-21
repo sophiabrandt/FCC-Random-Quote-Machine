@@ -1,0 +1,17 @@
+{
+	"name": "fcc-random-quote-machine",
+	"version": "0.0.1",
+	"description": "a game of thrones quote app",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"babel-core": "^6.9.1"
+	},
+	"engines": {
+		"node": "4.4.3"
+	},
+	"license": "MIT"
+}

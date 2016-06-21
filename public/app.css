@@ -1,0 +1,26 @@
+html,body {
+  height: 100%;
+  background: #CFF09E;
+}
+
+@media only screen and (min-width : 768px) {
+  .card {
+    width: 500px;
+  }
+}
+
+#displayQuote {
+  font-size: 1.1em;
+}
+
+#displayCharacter {
+  font-style: italic;
+}
+
+.buttons {
+  margin-bottom: 0.8em;
+}
+
+a {
+  font-size: 0.8em;
+}
