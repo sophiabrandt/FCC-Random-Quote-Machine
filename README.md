@@ -18,6 +18,11 @@ Project description [here](https://www.freecodecamp.com/challenges/build-a-rando
 - User Story: I can press a button to tweet out a quote.
 
 
+### Known bugs
+
+- the app was written in ES6 and is (not yet) backwards compatible, for more information see this [table](https://kangax.github.io/compat-table/es6/)
+
+
 ---------
 
 This implementation was coded by [Sophia Brandt](http://sophiabrandt.com).

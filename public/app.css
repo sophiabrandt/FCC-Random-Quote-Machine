@@ -3,6 +3,13 @@ html,body {
   background: #CFF09E;
 }
 
+.valign-wrapper {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 @media only screen and (min-width : 768px) {
   .card {
     width: 500px;
@@ -23,4 +30,3 @@ html,body {
 
 a {
   font-size: 0.8em;
-}

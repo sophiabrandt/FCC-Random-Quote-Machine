@@ -6,12 +6,23 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"babel": {
+    "presets": ["es2015"]
+  },
 	"dependencies": {
-		"express": "^5.0.0-alpha.2",
-		"babel-core": "^6.9.1"
+		"express": "^5.0.0-alpha.2"
 	},
 	"engines": {
 		"node": "4.4.3"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://hyperdev.com/#!/project/thorn-hound"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
 	"license": "MIT"
 }
