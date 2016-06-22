@@ -1,6 +1,6 @@
 // init project
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
