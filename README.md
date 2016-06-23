@@ -1,9 +1,9 @@
 # FCC Random Quote Machine
 ## Game of Thrones Edition
 
-[Code and live demo @ Hyperdev](https://hyperdev.com/#!/project/thorn-hound)
+[Code and live demo @ Hyperdev](https://hyperdev.com/#!/project/thorn-hound) & [Codepen](https://codepen.io/sophiabrandt/pen/RRoyJm).
 
-Project description [here](https://www.freecodecamp.com/challenges/build-a-random-quote-machine):
+Project description [here](https://www.freecodecamp.com/challenges/build-a-random-quote-machine).
 
 ### Requirements
 
