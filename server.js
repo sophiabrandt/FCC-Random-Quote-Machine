@@ -1,6 +1,16 @@
 // init project
+const babelify = require('express-babelify-middleware');
 const express = require('express');
 const app = express();
+
+//babelify
+app.get('/app.js', babelify('./client/app.js', {
+  cache: true,
+  precompile: true,
+  minify: true,
+  gzip: true
+  },
+  {presets: ["es2015"]}));
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
