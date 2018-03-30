@@ -81,7 +81,7 @@ const handlers = {
 const view = {
   render({quote, character}) {
     const displayQuote = document.querySelector('#displayQuote');
-    const displaySource = document.querySelector('#displayCharacter');
+    const displayCharacter = document.querySelector('#displayCharacter');
     displayQuote.textContent = quote;
     displayCharacter.textContent = character;
   }
