@@ -1,27 +1,27 @@
 {
-	"name": "fcc-random-quote-machine",
-	"version": "0.0.1",
-	"description": "a game of thrones quote app",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {
-		"express": "^5.0.0-alpha.2",
-		"express-babelify-middleware": "^0.2.1",
-		"babel-preset-es2015": "^6.9.0"
-	},
-	"engines": {
-		"node": "4.4.5"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://hyperdev.com/#!/project/thorn-hound"
-	},
-	"keywords": [
-		"node",
-		"hyperdev",
-		"express"
-	],
-	"license": "MIT"
+  "name": "fcc-random-quote-machine",
+  "version": "0.0.1",
+  "description": "a game of thrones quote app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "express-babelify-middleware": "^0.2.1",
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hyperdev.com/#!/project/thorn-hound"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
 }
